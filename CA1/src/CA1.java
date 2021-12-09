@@ -7,9 +7,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*;
-
-
-
+//todas as mudancas devem aparecer assim, olha como isso ja vai direto para o diretorio
 
 public class CA1 extends JPanel {
 
