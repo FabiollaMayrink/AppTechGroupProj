@@ -1,6 +1,6 @@
 /**
  *
- * @author farleyreis  & Matheus
+ * @author farleyreis, Fabiola, Elder, Carolina
  */
 
 import java.awt.*;
